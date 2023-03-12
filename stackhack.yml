@@ -1,0 +1,4 @@
+app:
+  applicationId: <application-id>
+  host: http://localhost:<port>
+  env: Production
